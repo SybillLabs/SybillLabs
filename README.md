@@ -10,6 +10,8 @@ Mon objectif : évoluer vers un rôle d’**Ingénieure DevOps** ⚙️♾️, a
 ## 📄 Ressources
 Retrouvez ici mon [Curriculum Vitae](/Ressources/CV.pdf), régulièrement mis à jour et optimisé pour les outils d’analyse ATS.
 
+## 🎓 Certifications
+
 ## 📫 Contact
 - 🔗 [LinkedIn : Sybill Gribonval](https://www.linkedin.com/in/sybill-gribonval)
 - 📧 sybillgribonval@gmail.com
