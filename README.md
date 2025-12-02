@@ -11,7 +11,7 @@ Mon objectif : évoluer vers un rôle d’**Ingénieure DevOps** ⚙️♾️, a
 Retrouvez ici mon [Curriculum Vitae](/Ressources/CV.pdf), régulièrement mis à jour et optimisé pour les outils d’analyse ATS.
 
 ## 🎓 Certifications
-## 1️⃣ 🖥️ **CompTIA A+** — ⬜
+### 1️⃣ 🖥️ **CompTIA A+** — ⬜
 > **Objectif** : Consolider les fondamentaux techniques en support, matériel, OS et dépannage.
 
 - Support utilisateur et résolution d’incidents (N1)  
@@ -19,7 +19,7 @@ Retrouvez ici mon [Curriculum Vitae](/Ressources/CV.pdf), régulièrement mis à
 - Dépannage matériel et réseau basique  
 - Configuration et administration de postes de travail  
 
-## 2️⃣ 🌐 **CompTIA Network+** — ⬜
+### 2️⃣ 🌐 **CompTIA Network+** — ⬜
 > **Objectif** : Acquérir des bases réseau solides avant le CCNA.
 
 - Réseaux filaires et Wi-Fi  
@@ -28,7 +28,7 @@ Retrouvez ici mon [Curriculum Vitae](/Ressources/CV.pdf), régulièrement mis à
 - Dépannage réseau  
 - Gestion et segmentation des réseaux  
 
-## 3️⃣ 🔐 **CompTIA Security+** — ⬜
+### 3️⃣ 🔐 **CompTIA Security+** — ⬜
 > **Objectif** : Intégrer les principes essentiels de cybersécurité.
 
 - Sécurisation des réseaux, identités, accès  
@@ -36,7 +36,7 @@ Retrouvez ici mon [Curriculum Vitae](/Ressources/CV.pdf), régulièrement mis à
 - Cryptographie  
 - Réponse aux incidents et conformité  
 
-## 4️⃣ 🛠️ **Cisco CCNA** — ⬜
+### 4️⃣ 🛠️ **Cisco CCNA** — ⬜
 > **Objectif** : Monter en compétence sur les réseaux avancés et les équipements Cisco.
 
 - Configuration et dépannage routeurs / switches Cisco  
@@ -45,7 +45,7 @@ Retrouvez ici mon [Curriculum Vitae](/Ressources/CV.pdf), régulièrement mis à
 - Automatisation et programmabilité réseau (bases)  
 - Sécurité réseau appliquée  
 
-## 5️⃣ 🐧 **Red Hat RHCSA** — ⬜
+### 5️⃣ 🐧 **Red Hat RHCSA** — ⬜
 > **Objectif** : Maîtriser l’administration Linux en environnement professionnel.
 
 - Gestion des services, stockage, permissions  
@@ -54,7 +54,7 @@ Retrouvez ici mon [Curriculum Vitae](/Ressources/CV.pdf), régulièrement mis à
 - Automatisation via scripts shell  
 - Renforcement de la sécurité Linux  
 
-## 6️⃣ ☁️ **Azure Administrator Associate (AZ-104)** — ⬜
+### 6️⃣ ☁️ **Azure Administrator Associate (AZ-104)** — ⬜
 > **Objectif** : Valider l’administration cloud orientée infrastructure.
 
 - Gestion des identités (Azure AD / Entra ID)  
