@@ -19,10 +19,10 @@ L’informatique a toujours occupé une place importante dans mon parcours perso
 Lors de mon dernier poste, où j’occupais une **double fonction**, notamment en tant que **Correspondante support informatique**, j’ai eu un déclic : les missions IT étaient celles où je me sentais la plus à l’aise et la plus pertinente.  
 J’ai donc entamé une **reconversion professionnelle** dans ce domaine.
 
-Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour objectif d’évoluer vers un rôle **ingénieur**, selon une orientation qui se précise de plus en plus vers la **culture DevOps** : 
-    - Scripting et automatisation  
-    - Lien entre développement et exploitation  
-    - Optimisation des processus et des environnements  
+Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour objectif d’évoluer vers un rôle **ingénieur**, selon une orientation qui se précise de plus en plus vers la **culture DevOps** :  
+- Scripting et automatisation
+- Lien entre développement et exploitation
+- Optimisation des processus et des environnements
 
 À ce stade, la **culture DevOps** fait clairement pencher la balance.
 
