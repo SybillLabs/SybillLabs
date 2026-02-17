@@ -12,19 +12,14 @@
 
 ## 👋 À propos de moi
 
-Je m’appelle **Sybill**, 34 ans, originaire de la région bordelaise 🍷🇫🇷.
+Je m’appelle **Sybill**, originaire de la région bordelaise 🍷🇫🇷.
 
 L’informatique a toujours occupé une place importante dans mon parcours personnel sans pour autant être mon métier initial.
 
 Lors de mon dernier poste, où j’occupais une **double fonction**, notamment en tant que **Correspondante support informatique**, j’ai eu un déclic : les missions IT étaient celles où je me sentais la plus à l’aise et la plus pertinente.  
 J’ai donc entamé une **reconversion professionnelle** dans ce domaine.
 
-Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour objectif d’évoluer vers un rôle **ingénieur**, selon deux orientations possibles : 
-- 🔐 **Cybersécurité**
-    - Protection des données et des infrastructures  
-    - Sécurisation des systèmes et des serveurs  
-    - Analyse et correction de vulnérabilités  
-- ⚙️ **DevOps**
+Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour objectif d’évoluer vers un rôle **ingénieur**, selon une orientation qui se précise de plus en plus vers la **culture DevOps** : 
     - Scripting et automatisation  
     - Lien entre développement et exploitation  
     - Optimisation des processus et des environnements  
