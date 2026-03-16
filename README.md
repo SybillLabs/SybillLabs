@@ -28,8 +28,8 @@ Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour o
 
 ## 📌 Projets
 
-### [![MYN](https://img.shields.io/badge/Master%20Your%20Network-VMware%20--%20Administration%20syst%C3%A8me%20et%20r%C3%A9seau%20--%20S%C3%A9curit%C3%A9%20--%20Supervision%20--%20Solowork-blue?style=social&logo=github)](https://github.com/SybillLabs/Master-Your-Network)  
-- Objectifs : Déployer une infrastructure d’entreprise complète sous environnement virtualisé (VMware), mêlant systèmes Windows et Linux.
+### [![MYN](https://img.shields.io/badge/Master%20Your%20Network-VirtualBox%20--%20Administration%20syst%C3%A8me%20et%20r%C3%A9seau%20--%20S%C3%A9curit%C3%A9%20--%20Supervision%20--%20Solowork-blue?style=social&logo=github)](https://github.com/SybillLabs/Master-Your-Network)  
+- Objectifs : Déployer une infrastructure d’entreprise complète sous environnement virtualisé (VirtualBox), mêlant systèmes Windows et Linux.
 - Technologies : 
     - 🧩 Réseau & infrastructure (Routage, VLANs, pare-feu, VPN, NTP); 
     - 🧠 Systèmes & Services (Active Directory, DNS/DHCP, WSUS, Cloud, Web, VoIP, Messagerie);
