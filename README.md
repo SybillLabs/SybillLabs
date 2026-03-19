@@ -24,9 +24,15 @@ Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour o
 - Lien entre développement et exploitation
 - Optimisation des processus et des environnements
 
-À ce stade, la **culture DevOps** fait clairement pencher la balance.
-
 ## 📌 Projets
+
+### [![KUBEQUEST](https://img.shields.io/badge/KubeQuest-Docker%20--%20Kubernetes%20--%20Conteneur%20--%20Learning-blue?style=social&logo=github)](https://github.com/SybillLabs/KubeQuest.git)
+- Objectifs : Explorer et apprendre Docker & Kubernetes à travers une série de mini-labs progressifs, du niveau débutant à avancé, avec une documentation claire et structurée.
+- Technologies : 
+    - 🐳 Docker
+    - ☸️ Kubernetes
+    - 📘 Documentation & Ressources d'apprentissage
+- État : *En perpétuelle évolution*
 
 ### [![MYN](https://img.shields.io/badge/Master%20Your%20Network-VirtualBox%20--%20Administration%20syst%C3%A8me%20et%20r%C3%A9seau%20--%20S%C3%A9curit%C3%A9%20--%20Supervision%20--%20Solowork-blue?style=social&logo=github)](https://github.com/SybillLabs/Master-Your-Network)  
 - Objectifs : Déployer une infrastructure d’entreprise complète sous environnement virtualisé (VirtualBox), mêlant systèmes Windows et Linux.
