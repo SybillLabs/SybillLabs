@@ -1,16 +1,6 @@
 # Hello there 👋
 
-[![Job](https://img.shields.io/badge/Job-Technicienne%20Syst%C3%A8mes%20%26%20R%C3%A9seaux%20Junior-blue?style=social&logo=github)](https://www.hellowork.com/fr-fr/metiers/technicien-systemes-et-reseaux.html?utm_source=google&utm_medium=cpc&utm_campaign=22689792470&utm_term=&utm_content=&gad_source=1&gad_campaignid=23517209695&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1CsinWRQHtXraHirrc9BT5vPZFMfK4XavJIdZ8thiZGjA-Dqe9YlKRoCopUQAvD_BwE)
-
-![Linux](https://img.shields.io/badge/Linux-Debian%20--%20Ubuntu%20--%20Serveur%20--%20Bash-orange?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-Client%20--%20Serveur%20--%20PowerShell-blue?style=flat-square&logo=gitforwindows)
-![Git](https://img.shields.io/badge/Git-Git%20--%20Github%20--%20Markdown-red?style=flat-square&logo=git)
-![VM](https://img.shields.io/badge/Virtualisation-Proxmox%20--%20VMware%20--%20VirtualBox-purple?style=flat-square&logo=proxmox)
-![NET](https://img.shields.io/badge/R%C3%A9seau-Routage%20--%20VLAN%20--%20VPN%20--%20Firewall-yellow?style=flat-square&logo=cisco)
-![MONITORING](https://img.shields.io/badge/Supervision-Monitoring%20%E2%80%93%20Logs%20%E2%80%93%20Alerting-pink?style=flat-square&logo=graylog)
-![SECURITY](https://img.shields.io/badge/S%C3%A9curit%C3%A9-Hardening%20--%20Audit%20--%20Sauvegardes-ff1400?style=flat-square&logo=shieldsdotio)
-
-## 👋 À propos de moi
+## 👤 À propos de moi
 
 Je m’appelle **Sybill**, originaire de la région bordelaise 🍷🇫🇷.
 
@@ -19,15 +9,12 @@ L’informatique a toujours occupé une place importante dans mon parcours perso
 Lors de mon dernier poste, où j’occupais une **double fonction**, notamment en tant que **Correspondante support informatique**, j’ai eu un déclic : les missions IT étaient celles où je me sentais la plus à l’aise et la plus pertinente.  
 J’ai donc entamé une **reconversion professionnelle** dans ce domaine.
 
-Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour objectif d’évoluer vers un rôle **ingénieur**, selon une orientation qui se précise de plus en plus vers la **culture DevOps** :  
-- Scripting et automatisation
-- Lien entre développement et exploitation
-- Optimisation des processus et des environnements
+Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior** et j’oriente progressivement mon parcours vers la **culture DevOps**, en développant mes compétences en *automatisation*, *conteneurisation* et *optimisation des environnements*git .
 
 ## 📌 Projets
 
 ### [![KUBEQUEST](https://img.shields.io/badge/KubeQuest-Docker%20--%20Kubernetes%20--%20Conteneur%20--%20Learning-blue?style=social&logo=github)](https://github.com/SybillLabs/KubeQuest.git)
-- Objectifs : Explorer et apprendre Docker & Kubernetes à travers une série de mini-labs progressifs, du niveau débutant à avancé, avec une documentation claire et structurée.
+- About : Explorer et apprendre la culture DevOps à travers une série de mini-labs progressifs, du niveau débutant à avancé, avec une documentation claire et structurée.
 - Technologies : 
     - 🐳 Docker
     - ☸️ Kubernetes
@@ -35,7 +22,7 @@ Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour o
 - État : *En perpétuelle évolution*
 
 ### [![MYN](https://img.shields.io/badge/Master%20Your%20Network-VirtualBox%20--%20Administration%20syst%C3%A8me%20et%20r%C3%A9seau%20--%20S%C3%A9curit%C3%A9%20--%20Supervision%20--%20Solowork-blue?style=social&logo=github)](https://github.com/SybillLabs/Master-Your-Network)  
-- Objectifs : Déployer une infrastructure d’entreprise complète sous environnement virtualisé (VirtualBox), mêlant systèmes Windows et Linux.
+- About : Conception d'une infrastructure d'entreprise complète sous environnement virtualisé (VirtualBox & GNS3), mêlant administration systèmes et réseaux.
 - Technologies : 
     - 🧩 Réseau & infrastructure (Routage, VLANs, pare-feu, VPN, NTP); 
     - 🧠 Systèmes & Services (Active Directory, DNS/DHCP, WSUS, Cloud, Web, VoIP, Messagerie);
@@ -44,7 +31,7 @@ Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour o
 - État : En cours
 
 ### [![SCRIPTARIUM](https://img.shields.io/badge/Scriptarium-Scripting%20--%20Bash%20--%20PoweShell%20--%20Python-blue?style=social&logo=github)](https://github.com/SybillLabs/Scriptarium.git)  
-- Objectifs : Collection de scripts Bash, PowerShell et Python pour automatiser des tâches et expérimenter avec différents outils.
+- About : Collection de scripts Bash, PowerShell et Python pour automatiser des tâches et expérimenter avec différents outils.
 - Technologies : 
     - 🐧 Bash
     - 🪟 PowerShell
@@ -52,7 +39,7 @@ Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour o
 - État : *En perpétuelle évolution*
 
 ### [![VT](https://img.shields.io/badge/Exploration%20de%20la%20Tech%20IT-Veille%20technologique%20--%20Linux%20--%20Windows%20--%20S%C3%A9curit%C3%A9%20--%20IA-blue?style=social&logo=github)](https://github.com/SybillLabs/Exploration-de-la-Tech-IT.git)  
-- Objectifs : Veille exploratrice en Tech IT (Linux, Sécurité, Windows, IA). Structuration et partage de ressources dans le cadre de ma montée en compétences vers l’ingénierie.
+- About : Veille exploratrice en Tech IT (Linux, Sécurité, Windows, IA). Structuration et partage de ressources dans le cadre de ma montée en compétences.
 - Axes de veille : 
     - 🐧 Le monde de Linux
     - 🪟 Le monde de Windows & Microsoft
@@ -61,7 +48,7 @@ Aujourd’hui, je suis **Technicienne Systèmes & Réseaux Junior**, avec pour o
 - État : *En perpétuelle évolution*
 
 ### [![BYI](https://img.shields.io/badge/Build%20Your%20Infrastructure-Proxmox%20--%20Administration%20syst%C3%A8me%20et%20r%C3%A9seau%20--%20S%C3%A9curit%C3%A9%20--%20Supervision%20--%20Teamwork-blue?style=social&logo=github)](https://github.com/SybillLabs/BuildYourInfrastructure.git)
-- Objectifs : Déployer une infrastructure d’entreprise complète sous environnement virtualisé (Proxmox), mêlant systèmes Windows et Linux sous 12 sprints.
+- About : Conception d’une infrastructure d’entreprise sous environnement virtualisé (Proxmox), mêlant administration systèmes et réseaux. *Projet fait en équipe sur 12 sprints.*
 - Technologies : 
     - 🧩 Réseau & infrastructure (Routage, pare-feu, VPN); 
     - 🧠 Systèmes & Services (Active Directory, DNS/DHCP, WSUS, Web, Messagerie, ...);
