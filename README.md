@@ -5,29 +5,28 @@ Je te souhaite la bienvenue sur mon profil GitHub !
 
 ## 🎯 Objectif professionnel
 
-A court terme, c'est de pouvoir acquérir les compétences dans l'administration systèmes, le devops et le Scripting; depuis un background Systèmes et Réseaux.  
-A long terme, c'est de devenir Ingénieure DevOps et m'épanouir dans une entreprise.
+A court terme, c'est de pouvoir **acquérir les compétences** dans l'administration systèmes, le devops et le Scripting; depuis un background Systèmes et Réseaux.  
+A long terme, c'est de devenir **Ingénieure DevOps** et m'épanouir dans une entreprise.
 
 ## 📚 Pourquoi le DevOps ?
 
-Un·e ingénieur·e DevOps automatise et fiabilise tout le processus de création d’une application, du développement jusqu’à la mise en production, afin que tout se déploie rapidement, sans erreur et avec le moins d’intervention humaine possible. Ce métier se situe à la croisée du développement et de l’administration système.
+Un·e ingénieur·e DevOps **automatise** et **fiabilise** tout le processus de création d’une application, du développement jusqu’à la mise en production, afin que tout se déploie rapidement, sans erreur et **avec le moins d’intervention humaine possible**. Ce métier se situe à la croisée du développement et de l’administration système.
 
-De mon côté, j’ai déjà touché à plusieurs langages (C, C++, HTML, CSS, Java). J’aime coder, mais je ne me voyais pas passer mes journées entières à développer.  
-Lors de mes débuts en TSSR, j’ai découvert à la fois l’administration système et l’administration réseau. J’apprécie les deux, mais je suis davantage en phase avec l’administration système.
+De mon côté, j’ai déjà touché à plusieurs **langages (C, C++, HTML, CSS, Java)**. J’aime coder, mais je ne me voyais pas passer mes journées entières à développer.  
+Lors de mes débuts en TSSR, j’ai découvert à la fois l’**administration système** et l’**administration réseau**. J’apprécie les deux, mais je suis davantage en phase avec l’administration système.
 
-C’est en apprenant le scripting (Bash, PowerShell) qu’un formateur m’a parlé du DevOps. En me renseignant, j’ai compris que ce domaine réunissait exactement ce que j’aimais : automatisation, scripting, administration système et logique d’infrastructure.  
+C’est en apprenant le **scripting** (Bash, PowerShell) qu’un formateur m’a parlé du DevOps. En me renseignant, j’ai compris que ce domaine réunissait exactement ce que j’aimais : **automatisation**, **scripting**, **administration système** et **logique d’infrastructure**.  
 Entre la cybersécurité et le DevOps, j’ai longuement comparé les deux domaines, et j’ai choisi le DevOps car il correspond davantage à ma façon de travailler et à mes centres d’intérêt.
 
 Le DevOps me permet de coder sans être développeuse à plein temps, tout en continuant à faire de l’administration système. Il touche principalement à ce qui me passionne, tout en restant un domaine riche et transversal.
 
 Voilà pourquoi j’ai choisi le DevOps !
 
-
 ## 🚀 Méthode d’apprentissage
 
 Ma méthode d’apprentissage a évolué pour s’adapter à mon rythme et à ma façon de progresser.  
-Je privilégie désormais des plateformes interactives et gamifiées, qui me permettent d’apprendre de manière régulière, motivante et structurée.  
-Pourquoi ? Car je suis une gameuse de base :)  
+Je privilégie désormais des **plateformes interactives et gamifiées**, qui me permettent d’apprendre de manière régulière, motivante et structurée.  
+Pourquoi ? Car je suis une gameuse de base 🙂​  
 J'apprends via des plateformes d'apprentissage tel que :
 - HackTheBox
 - OverTheWire
