@@ -5,47 +5,27 @@ Je te souhaite la bienvenue sur mon profil GitHub !
 
 ## 🎯 Objectif professionnel
 
-A court terme, c'est de pouvoir **acquérir les compétences** dans l'administration systèmes, le devops et le Scripting; depuis un background Systèmes et Réseaux.  
-A long terme, c'est de devenir **Ingénieure DevOps** et m'épanouir dans une entreprise.
+À court terme, c'est de pouvoir **acquérir les compétences** dans l'administration systèmes, le DevOps et le Scripting; depuis un background Systèmes et Réseaux.  
+À long terme, c'est de devenir **Ingénieure DevOps** et m'épanouir dans une entreprise.
 
 ## 📚 Pourquoi le DevOps ?
 
-Un·e ingénieur·e DevOps **automatise** et **fiabilise** tout le processus de création d’une application, du développement jusqu’à la mise en production, afin que tout se déploie rapidement, sans erreur et **avec le moins d’intervention humaine possible**. Ce métier se situe à la croisée du développement et de l’administration système.
+Un·e ingénieur·e DevOps **automatise** et **fiabilise** le parcours d’une application, du développement à la mise en production, pour déployer plus vite et avec moins d’intervention humaine.
+De mon côté, j’ai déjà touché à plusieurs **langages (C, C++, HTML, CSS, Java)**, ainsi qu’à l’**administration système** et à l’**administration réseau** pendant mon parcours en TSSR. J’ai aussi découvert le **scripting** (Bash, PowerShell), qui m’a fait réaliser que le DevOps rassemblait exactement ce que j’aime : **automatisation**, **infrastructure** et **logique système**.
 
-De mon côté, j’ai déjà touché à plusieurs **langages (C, C++, HTML, CSS, Java)**. J’aime coder, mais je ne me voyais pas passer mes journées entières à développer.  
-Lors de mes débuts en TSSR, j’ai découvert à la fois l’**administration système** et l’**administration réseau**. J’apprécie les deux, mais je suis davantage en phase avec l’administration système.
-
-C’est en apprenant le **scripting** (Bash, PowerShell) qu’un formateur m’a parlé du DevOps. En me renseignant, j’ai compris que ce domaine réunissait exactement ce que j’aimais : **automatisation**, **scripting**, **administration système** et **logique d’infrastructure**.  
-Entre la cybersécurité et le DevOps, j’ai longuement comparé les deux domaines, et j’ai choisi le DevOps car il correspond davantage à ma façon de travailler et à mes centres d’intérêt.
-
-Le DevOps me permet de coder sans être développeuse à plein temps, tout en continuant à faire de l’administration système. Il touche principalement à ce qui me passionne, tout en restant un domaine riche et transversal.
-
-Voilà pourquoi j’ai choisi le DevOps !
+Entre la cybersécurité et le DevOps, j’ai finalement choisi le DevOps, car il correspond mieux à ma façon de travailler et à mes centres d’intérêt.
 
 ## 🚀 Méthode d’apprentissage
 
 Ma méthode d’apprentissage a évolué pour s’adapter à mon rythme et à ma façon de progresser.  
 Je privilégie désormais des **plateformes interactives et gamifiées**, qui me permettent d’apprendre de manière régulière, motivante et structurée.  
 Pourquoi ? Car je suis une gameuse de base 🙂​  
-J'apprends via des plateformes d'apprentissage tel que :
-- HackTheBox
-- OverTheWire
-- KodeKloud
-- CodeCombat
 
-## 🛠️ Compétences actuels et en progression
+## 🎮 Plateformes interactives et gamifiées
 
-| Domaine | Actuel | En progression |
-|--------|--------|----------------|
-| **Administration système** | Debian, Ubuntu, Windows | Renforcement des compétences, bonnes pratiques avancées |
-| **Administration réseau** | TCP/IP, DNS, DHCP, SSH, Firewall | VLAN, NAT, notions de cybersécurité |
-| **Scripting** | Bash, PowerShell | Python |
-| **DevOps** | — | Docker, Kubernetes, CI/CD |
-
-
-## 📄 Ressources
-
-Retrouvez ici mon [Curriculum Vitae](/Ressources/CV.pdf), régulièrement mis à jour et optimisé pour les outils d’analyse ATS.
+- **[Hack The Box](https://www.hackthebox.com/)** : pour pratiquer le hacking éthique et la sécurité informatique de manière ludique.
+- **[KodeKloud](https://www.kodekloud.com/)** : pour apprendre le DevOps et l’administration système à travers des scénarios pratiques.
+- **[OverTheWire](https://overthewire.org/wargames/)** : pour renforcer mes compétences en sécurité et en administration système à travers des défis progressifs.
 
 ## 📫 Contact
 
