@@ -21,12 +21,6 @@ Ma méthode d’apprentissage a évolué pour s’adapter à mon rythme et à ma
 Je privilégie désormais des **plateformes interactives et gamifiées**, qui me permettent d’apprendre de manière régulière, motivante et structurée.  
 Pourquoi ? Car je suis une gameuse de base 🙂​  
 
-## 🎮 Plateformes interactives et gamifiées
-
-- **[Hack The Box](https://www.hackthebox.com/)** : pour pratiquer le hacking éthique et la sécurité informatique de manière ludique.
-- **[KodeKloud](https://www.kodekloud.com/)** : pour apprendre le DevOps et l’administration système à travers des scénarios pratiques.
-- **[OverTheWire](https://overthewire.org/wargames/)** : pour renforcer mes compétences en sécurité et en administration système à travers des défis progressifs.
-
 ## 📫 Contact
 
 - 🔗 [LinkedIn : Sybill Gribonval](https://www.linkedin.com/in/sybill-gribonval)
