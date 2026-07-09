@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SybillLabs">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Sybill" alt="Hello! I&#39;m Sybill" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Sybill" alt="Hello! I&#39;m Sybill" />
 </p>
 
 <p align="center">
@@ -39,4 +37,4 @@ J’apprends en pratiquant et en m’amusant, tout en documentant mes exercices,
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/SybillLabs">SybillLabs</a></i></p>
+<p align="center"><i>✨ From <a href="https://github.com/SybillLabs">SybillLabs</a></i></p>
