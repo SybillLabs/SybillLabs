@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Sybill" alt="Hello! I&#39;m Sybill" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Sybill" alt="Hello! I&#39;m Sybill" style="pointer-events: none;"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Enthousiaste%20des%20administrations%20syst%C3%A8mes%2C%20des%20r%C3%A9seaux%20et%20du%20scripting;En%20chemin%20vers%20l%E2%80%99ing%C3%A9nierie%20DevOps" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Enthousiaste%20des%20administrations%20syst%C3%A8mes%2C%20des%20r%C3%A9seaux%20et%20du%20scripting;En%20chemin%20vers%20l%E2%80%99ing%C3%A9nierie%20DevOps" alt="Typing headlines" style="pointer-events: none;"/>
 </p>
 
 ### 🚀 About Me
