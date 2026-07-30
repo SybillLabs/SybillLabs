@@ -67,7 +67,7 @@ Le respawn fait partie du process.
 <pre>
 repositories/
 ├── 🖥️  <a href="https://github.com/SybillLabs/sysnet-practice-labs">sysnet-practice-labs</a>       # Hub de labs d'administration système et réseau
-│      └── Nombre de labs : 
+│      └── Nombre de labs : 1
 ├── 🔐  <a href="https://github.com/SybillLabs/overthewire-writeups">overthewire-writeups</a>       # wargames shell & sécurité
 ├── ⚙️  <a href="https://github.com/SybillLabs/kodekloud-labs">kodekloud-labs</a>             # Hub de labs KodeKloud
 │      └── Nombre de labs : 
