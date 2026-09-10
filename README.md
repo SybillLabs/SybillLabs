@@ -71,8 +71,7 @@ repositories/
 ├── 🔐  <a href="https://github.com/SybillLabs/overthewire-writeups">overthewire-writeups</a>       # wargames shell & sécurité
 ├── ⚙️  <a href="https://github.com/SybillLabs/kodekloud-labs">kodekloud-labs</a>             # Hub de labs KodeKloud
 │      └── Nombre de labs : 5
-├── 📚  <a href="https://github.com/SybillLabs/tech-watch">tech-watch</a>                 # veille techno
-└── 📚  <a href="https://github.com/SybillLabs/devops-knowledge-vault">devops-knowledge-vault</a>     # notes & ressources DevOps
+└── 📚  <a href="https://github.com/SybillLabs/tech-watch">tech-watch</a>                 # veille techno
 </pre>
 
 > Je liste les labs qu'ils soient à faire, en cours ou déjà terminés. Je ne les détaille pas pour ne pas spoiler les solutions.
