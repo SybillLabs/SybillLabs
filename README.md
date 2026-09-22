@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=56D4DD&center=true&vCenter=true&width=700&height=45&lines=sybill%40cypher_nyx+~+%24+.%2Finit_devops.sh;%3E+access+granted" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=56D4DD&center=true&vCenter=true&width=700&height=45&lines=sybill%40cypher_nyx+~+%24+.%2Finit_profile.sh;%3E+access+granted" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -16,49 +16,17 @@
 
 ### `> ./about_me.sh`
 
-Je suis en reconversion vers l'IT, avec un cap précis : devenir **Technicienne Système et Réseau**, puis **Ingénieure DevOps**.
+Reconversion vers l'IT, cap fixe : **Technicienne Système et Réseau** (acquis) → **Administratrice d'Infrastructure Sécurisée** (en cours) → **Diplôme d'Ingénieure**.  
+Mon but a toujours été de devenir ingénieure. Cloud, Système, Hardening, DevOps : plusieurs domaines me font de l'œil, et c'est mon parcours, lab après lab, qui décidera de la route.
 
-C'est durant ma formation **TSSR** que j'ai croisé la **culture DevOps** pour la première fois. Depuis, l'objectif ne bouge plus : je veux m'y former sérieusement et construire le chemin qui m'y mène.
+Ma méthode : **je pratique en m'amusant**. Les erreurs ne sont pas des échecs, ce sont des indices sur ce qu'il ne faut pas refaire. C'est souvent là que j'apprends le plus.
 
-Ma méthode d'apprentissage est simple : **je pratique en m'amusant**. Les erreurs ne sont pas des échecs, ce sont des indices sur ce qu'il ne faut pas refaire; et c'est souvent là que j'apprends le plus.
-
-- 🔧 Terrain d'entraînement : KodeKloud, OverTheWire, HackTheBox, ...
-- 🖥️ Labs perso : un repo par thème, chacun centré sur une problématique concrète d'administration système ou réseau
-- 📡 Veille techno : scan de sources fiables, sujets affinés avec l'appui de l'IA
-- ⚡ Fun fact : une mission de netrunning dans Cyberpunk 2077 m'a aidée à piger un concept réseau vu en cours
+- 🖥️ **Labs perso** : un repo par thème, chacun centré sur une problématique concrète d'administration système ou réseau (pars les voir, ils parlent mieux que moi)
+- 🔧 **Terrain d'entraînement** : KodeKloud, OverTheWire, ...
+- 📡 **Veille techno** : sources fiables, sujets affinés
+- ⚡ **Fun fact** : une mission de netrunning dans Cyberpunk 2077 m'a fait piger un concept réseau vu en cours
 
 Le respawn fait partie du process.
-
----
-
-### `> ./tech_stack.sh`
-
-**Pratiques maîtrisées**
-<p align="left">
-  <img src="https://img.shields.io/badge/WINDOWS-white?style=flat-square&color=%230078d7"/>
-  <img src="https://img.shields.io/badge/LINUX-white?style=flat-square&logo=linux&logoColor=black&color=%23FCC624"/>
-  <img src="https://img.shields.io/badge/POWERSHELL-white?style=flat-square&logo=gnometerminal&logoColor=white&color=%235391FE"/>
-  <img src="https://img.shields.io/badge/BASH-white?style=flat-square&logo=gnubash&logoColor=white&color=%234EAA25"/>
-  <img src="https://img.shields.io/badge/GIT-white?style=flat-square&logo=git&logoColor=white&color=%23F03C2E"/>
-  <img src ="https://img.shields.io/badge/AGILE%20%2F%20SCRUM%20-%20white?style=flat-square&color=%239D00FF"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-white?style=flat-square&color=%230078D6"/>
-  <img src="https://img.shields.io/badge/PFSENSE-white?style=flat-square&logo=pfsense&logoColor=%23CC0000&color=%23212121"/>
-  <img src="https://img.shields.io/badge/PROXMOX-white?style=flat-square&logo=proxmox&logoColor=white&color=%23E57000"/>
-  <img src="https://img.shields.io/badge/WIRESHARK-white?style=flat-square&logo=wireshark&logoColor=white&color=%231679A7"/>
-  <img src="https://img.shields.io/badge/APACHE-white?style=flat-square&logo=apache&logoColor=white&color=%23D22128"/>
-</p>
-
-**En cours d'acquisition**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/DOCKER-white?style=flat-square&logo=docker&logoColor=white&color=%232496ED"/>
-  <img src="https://img.shields.io/badge/KUBERNETES-white?style=flat-square&logo=kubernetes&logoColor=white&color=%23326CE5"/>
-  <img src="https://img.shields.io/badge/OPENVPN-white?style=flat-square&logo=openvpn&logoColor=white&color=%23EA7E20"/>
-  <img src="https://img.shields.io/badge/AZURE-white?style=flat-square&logo=microsoftazure&logoColor=white&color=%230089D6"/>
-  <img src="https://img.shields.io/badge/AWS-white?style=flat-square&logo=amazonaws&logoColor=white&color=%23232F3E"/>
-</p>
 
 ---
 
@@ -67,7 +35,7 @@ Le respawn fait partie du process.
 <pre>
 repositories/
 ├── 🖥️  <a href="https://github.com/SybillLabs/sysnet-practice-labs">sysnet-practice-labs</a>       # Hub de labs d'administration système et réseau
-│      └── Nombre de labs : 1
+│      └── Nombre de labs : 3
 ├── 🔐  <a href="https://github.com/SybillLabs/overthewire-writeups">overthewire-writeups</a>       # wargames shell & sécurité
 ├── ⚙️  <a href="https://github.com/SybillLabs/kodekloud-labs">kodekloud-labs</a>             # Hub de labs KodeKloud
 │      └── Nombre de labs : 5
@@ -92,7 +60,6 @@ repositories/
 <p align="left">
   <a href="https://www.linkedin.com/in/sybill-gribonval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sybillgribonval@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://profile.hackthebox.com/profile/019e8dbe-9dc2-7004-9092-4f68701731a1" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
 </p>
 
 ---
