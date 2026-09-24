@@ -14,7 +14,7 @@
 
 ---
 
-### `> ./about_me.sh`
+### `> about_me`
 
 Reconversion vers l'IT, cap fixe : **Technicienne Système et Réseau** (acquis) → **Administratrice d'Infrastructure Sécurisée** (en cours) → **Diplôme d'Ingénieure**.  
 Mon but a toujours été de devenir ingénieure. Cloud, Système, Hardening, DevOps : plusieurs domaines me font de l'œil, et c'est mon parcours, lab après lab, qui décidera de la route.
@@ -30,7 +30,7 @@ Le respawn fait partie du process.
 
 ---
 
-### `> ./solo_projects.sh`
+### `> solo_projects`
 
 <pre>
 repositories/
@@ -46,7 +46,7 @@ repositories/
 
 ---
 
-### `> ./crew_projects.sh`
+### `> crew_projects`
 
 <pre>
 repositories/
@@ -55,7 +55,7 @@ repositories/
 
 ---
 
-### `> ./connect.sh`
+### `> connect`
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sybill-gribonval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
