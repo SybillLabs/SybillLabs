@@ -22,7 +22,7 @@ Mon but a toujours été de devenir ingénieure. Cloud, Système, Hardening, Dev
 Ma méthode : **je pratique en m'amusant**. Les erreurs ne sont pas des échecs, ce sont des indices sur ce qu'il ne faut pas refaire. C'est souvent là que j'apprends le plus.
 
 - 🖥️ **Labs perso** : un repo par thème, chacun centré sur une problématique concrète d'administration système ou réseau (pars les voir, ils parlent mieux que moi)
-- 🔧 **Terrain d'entraînement** : KodeKloud, OverTheWire, ...
+- 🔧 **Terrain d'entraînement** : KodeKloud, OverTheWire, etc.
 - 📡 **Veille techno** : sources fiables, sujets affinés
 - ⚡ **Fun fact** : une mission de netrunning dans Cyberpunk 2077 m'a fait piger un concept réseau vu en cours
 
