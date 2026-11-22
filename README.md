@@ -30,28 +30,39 @@ Le respawn fait partie du process.
 
 ---
 
-### `> solo_projects`
+### `> main_projects`
 
-<pre>
-repositories/
-├── 🖥️  <a href="https://github.com/SybillLabs/sysnet-practice-labs">sysnet-practice-labs</a>       # Hub de labs d'administration système et réseau
-│      └── Nombre de labs : 3
-├── 🔐  <a href="https://github.com/SybillLabs/overthewire-writeups">overthewire-writeups</a>       # wargames shell & sécurité
-├── ⚙️  <a href="https://github.com/SybillLabs/kodekloud-labs">kodekloud-labs</a>             # Hub de labs KodeKloud
-│      └── Nombre de labs : 5
-└── 📚  <a href="https://github.com/SybillLabs/tech-watch">tech-watch</a>                 # veille techno
-</pre>
+- 🌐🖥️ <a href="https://github.com/SybillLabs/network-vlan-packet-tracer">Network VLAN Packet Tracer</a>  
+  Mise en œuvre complète d'une infrastructure réseau segmentée : adressage VLSM, VLANs, routage inter-VLAN, OSPF sur liaison WAN, services DHCP/DNS/NTP et politiques de sécurité (SSH restreint, ACL, port-security, DHCP snooping).
+- 🖧🪟 <a href="https://github.com/SybillLabs/infra-windows-vmware">Infrastructure Windows avec VMware</a>  
+  Mise en œuvre d'une infrastructure Windows pour une PME : Active Directory, DHCP, DNS, GPO, Réplication, Partage NTFS, Routage, Script PowerShell.
+- 🪟🌲 <a href="https://github.com/SybillLabs/ad-multi-forest-lab">Intégration d'une infrastructure Windows Server multi-forêts</a>  
+  Mise en œuvre d'une infrastructure Windows avec deux forêts : Active Directory, GPO, politiques de mot passe différenciées, LAPS, accès temporaire, partages, permissions, DFS, réplication, FSRM/classification, WAC/IPAM et approbation.
+- 🪟📝 <a href="https://github.com/SybillLabs/ad-admin-toolkit">Acive Directory Admin Toolkit</a>  
+  Script PowerShell interactifs d'administration d'un domaine Active Directory
 
-> Je liste les labs qu'ils soient à faire, en cours ou déjà terminés. Je ne les détaille pas pour ne pas spoiler les solutions.
+
+
+> Vous pourrez retrouver la liste intégrale de mes projets dans 🖥️  <a href="https://github.com/SybillLabs/sysnet-practice-labs">sysnet-practice-labs</a>, qui est mon hub de labs d'administration système et réseau.
+
+> *Les labs listés ci-dessus sont soient à faire, en cours, suspendu ou déjà terminés.*
 
 ---
 
 ### `> crew_projects`
 
-<pre>
-repositories/
-└── 🤝  <a href="https://github.com/SybillLabs/BuildYourInfrastructure">BuildYourInfrastructure</a>    # projet d'équipe — Wild Code School (TSSR)
-</pre>
+- 🖧🛠️  <a href="https://github.com/SybillLabs/BuildYourInfrastructure">BuildYourInfrastructure</a>  
+  Création d'un infrastructure réseau sécurisée pour une entreprise virtualisé sous *Proxmox*.  
+  Projet scolaire ***Techinicien Supérieur Système et Réseau*** découpé en 12 sprint sous *méthode agile Scrum*.
+
+### `> side_projects`
+
+- 🪟🐧 <a href="https://github.com/SybillLabs/win-to-arch">Windows to Arch-Linux</a>   
+  Migration d'un poste Windows vers Arch Linux, avec installation et configuration par rapport à un cahier des charges.
+- 🔐  <a href="https://github.com/SybillLabs/overthewire-writeups">overthewire-writeups</a>  
+  Wargames du site [OvertTheWire](https://overthewire.org/wargames/) sur le thème de la sécurité informatique.
+- ⚙️  <a href="https://github.com/SybillLabs/kodekloud-labs">kodekloud-labs</a>  
+  Laboratoires en lien avec les différents cours de [Kokekloud](https://kodekloud.com/), sur des thèmes divers et variés : DevOps, Cloud, Kubernetes, Intelligence Artificiel, ...
 
 ---
 
