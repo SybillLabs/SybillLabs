@@ -32,7 +32,7 @@ Le respawn fait partie du process.
 
 ### `> main_projects`
 
-- 🌐🖥️ <a href="https://github.com/SybillLabs/network-vlan-packet-tracer">Network VLAN Packet Tracer</a>  
+- 🌐🖥️ <a href="https://github.com/SybillLabs/network-vlan-packet-tracer">Network VLAN Cisco Packet Tracer</a>  
   Mise en œuvre complète d'une infrastructure réseau segmentée : adressage VLSM, VLANs, routage inter-VLAN, OSPF sur liaison WAN, services DHCP/DNS/NTP et politiques de sécurité (SSH restreint, ACL, port-security, DHCP snooping).
 - 🖧🪟 <a href="https://github.com/SybillLabs/infra-windows-vmware">Infrastructure Windows avec VMware</a>  
   Mise en œuvre d'une infrastructure Windows pour une PME : Active Directory, DHCP, DNS, GPO, Réplication, Partage NTFS, Routage, Script PowerShell.
