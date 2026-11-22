@@ -16,17 +16,14 @@
 
 ### `> about_me`
 
-Reconversion vers l'IT, cap fixe : **Technicienne Système et Réseau** (acquis) → **Administratrice d'Infrastructure Sécurisée** (en cours) → **Diplôme d'Ingénieure**.  
-Mon but a toujours été de devenir ingénieure. Cloud, Système, Hardening, DevOps : plusieurs domaines me font de l'œil, et c'est mon parcours, lab après lab, qui décidera de la route.
+Reconversion vers l'IT, de  **Technicienne Système et Réseaux** à une **Ingénieure junior** en devenir.   
+**Cloud, Administration système, Hardening, DevOps** : plusieurs domaines me font de l'œil, et c'est mes aventures, qui lab après lab, indiquera mon chemin.
 
-Ma méthode : **je pratique en m'amusant**. Les erreurs ne sont pas des échecs, ce sont des indices sur ce qu'il ne faut pas refaire. C'est souvent là que j'apprends le plus.
+Ma méthode : **pratiquer en s'amusant**. Les erreurs ne sont pas des échecs, ce sont des indices sur ce qu'il ne faut pas refaire. C'est souvent là que j'apprends le plus.
 
-- 🖥️ **Labs perso** : un repo par thème, chacun centré sur une problématique concrète d'administration système ou réseau (pars les voir, ils parlent mieux que moi)
-- 🔧 **Terrain d'entraînement** : KodeKloud, OverTheWire, etc.
-- 📡 **Veille techno** : sources fiables, sujets affinés
-- ⚡ **Fun fact** : une mission de netrunning dans Cyberpunk 2077 m'a fait piger un concept réseau vu en cours
+> **⚡ *Fun fact*** : une mission de netrunning dans Cyberpunk 2077 m'a fait piger un concept réseau vu en cours.
 
-Le respawn fait partie du process.
+<p align="center"><b><i>Le respawn fait partie du process.</b></i></p>
 
 ---
 
