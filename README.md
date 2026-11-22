@@ -59,9 +59,9 @@ Le respawn fait partie du process.
 
 - 🪟🐧 <a href="https://github.com/SybillLabs/win-to-arch">Windows to Arch-Linux</a>   
   Migration d'un poste Windows vers Arch Linux, avec installation et configuration par rapport à un cahier des charges.
-- 🔐  <a href="https://github.com/SybillLabs/overthewire-writeups">overthewire-writeups</a>  
+- 🔐👨‍💻 <a href="https://github.com/SybillLabs/overthewire-writeups">overthewire-writeups</a>  
   Wargames du site [OvertTheWire](https://overthewire.org/wargames/) sur le thème de la sécurité informatique.
-- ⚙️  <a href="https://github.com/SybillLabs/kodekloud-labs">kodekloud-labs</a>  
+- ⚙️♾️ <a href="https://github.com/SybillLabs/kodekloud-labs">kodekloud-labs</a>  
   Laboratoires en lien avec les différents cours de [Kokekloud](https://kodekloud.com/), sur des thèmes divers et variés : DevOps, Cloud, Kubernetes, Intelligence Artificiel, ...
 
 ---
