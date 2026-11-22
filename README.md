@@ -43,7 +43,7 @@ Le respawn fait partie du process.
 
 
 
-> Vous pourrez retrouver la liste intégrale de mes projets dans 🖥️  <a href="https://github.com/SybillLabs/sysnet-practice-labs">sysnet-practice-labs</a>, qui est mon hub de labs d'administration système et réseau.
+**Vous pourrez retrouver la liste intégrale de mes projets dans 🖥️  <a href="https://github.com/SybillLabs/sysnet-practice-labs">sysnet-practice-labs</a>, qui est mon hub de labs d'administration système et réseau.**
 
 > *Les labs listés ci-dessus sont soient à faire, en cours, suspendu ou déjà terminés.*
 
