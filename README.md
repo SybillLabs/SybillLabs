@@ -55,6 +55,8 @@ Le respawn fait partie du process.
   Création d'un infrastructure réseau sécurisée pour une entreprise virtualisé sous *Proxmox*.  
   Projet scolaire ***Techinicien Supérieur Système et Réseau*** découpé en 12 sprint sous *méthode agile Scrum*.
 
+---
+
 ### `> side_projects`
 
 - 🪟🐧 <a href="https://github.com/SybillLabs/win-to-arch">Windows to Arch-Linux</a>   
