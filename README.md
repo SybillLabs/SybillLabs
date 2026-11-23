@@ -33,10 +33,10 @@ Ma méthode : **pratiquer en s'amusant**. Les erreurs ne sont pas des échecs, c
   Mise en œuvre complète d'une infrastructure réseau segmentée : adressage VLSM, VLANs, routage inter-VLAN, OSPF sur liaison WAN, services DHCP/DNS/NTP et politiques de sécurité (SSH restreint, ACL, port-security, DHCP snooping).
 - 🖧🪟 <a href="https://github.com/SybillLabs/infra-windows-vmware">Infrastructure Windows avec VMware</a>  
   Mise en œuvre d'une infrastructure Windows pour une PME : Active Directory, DHCP, DNS, GPO, Réplication, Partage NTFS, Routage, Script PowerShell.
-- 🪟🌲 <a href="https://github.com/SybillLabs/ad-multi-forest-lab">Intégration d'une infrastructure Windows Server multi-forêts</a>  
+- 🌲🪟 <a href="https://github.com/SybillLabs/ad-multi-forest-lab">Intégration d'une infrastructure Windows Server multi-forêts</a>  
   Mise en œuvre d'une infrastructure Windows avec deux forêts : Active Directory, GPO, politiques de mot passe différenciées, LAPS, accès temporaire, partages, permissions, DFS, réplication, FSRM/classification, WAC/IPAM et approbation.
-- 🪟📝 <a href="https://github.com/SybillLabs/ad-admin-toolkit">Acive Directory Admin Toolkit</a>  
-  Script PowerShell interactifs d'administration d'un domaine Active Directory
+- 📝🪟 <a href="https://github.com/SybillLabs/ad-automation-framework">AD Automation Framework</a>  
+  Automatisation et structuration modulaire de l'administration Active Directory avec PowerShell.
 
 
 
