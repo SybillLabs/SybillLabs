@@ -42,8 +42,6 @@ Ma méthode : **pratiquer en s'amusant**. Les erreurs ne sont pas des échecs, c
 
 **Vous pourrez retrouver la liste intégrale de mes projets dans 🖥️  <a href="https://github.com/SybillLabs/sysnet-practice-labs">sysnet-practice-labs</a>, qui est mon hub de labs d'administration système et réseau.**
 
-> *Les labs listés ci-dessus sont soient à faire, en cours, suspendu ou déjà terminés.*
-
 ---
 
 ### `> crew_projects`
@@ -64,6 +62,8 @@ Ma méthode : **pratiquer en s'amusant**. Les erreurs ne sont pas des échecs, c
   Laboratoires en lien avec les différents cours de [Kokekloud](https://kodekloud.com/), sur des thèmes divers et variés : DevOps, Cloud, Kubernetes, Intelligence Artificiel, ...
 
 ---
+
+<p align="center"><i>Les projets listés ci-dessus sont soient à faire, en cours, suspendu ou déjà terminés.</i></p>
 
 ### `> connect`
 
